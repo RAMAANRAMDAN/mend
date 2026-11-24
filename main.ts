@@ -1,3 +1,4 @@
+// Revision 2 — Mend entry, hidden-spec-cli-01-run-20261122.
 // main.ts is mend, the CLI SPEC.md specifies. It does sections 1 to 10 of SPEC.md:
 // the command line, output and exit codes, safe paths, format detection, matching
 // lines at three tiers (section 5), unified diffs (section 6), SEARCH/REPLACE
